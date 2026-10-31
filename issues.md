@@ -22,8 +22,8 @@ Line numbers refer to the original file.
 
 | Tool | Before | After |
 | ---- | ------ | ----- |
-| Bandit | 3 issues (1 Low, 2 Medium) | 0 |
-| Pylint | 5.81/10 | fill in from your `pylint_report_after.txt` |
-| Flake8 | 5 issues | 0 |
+| Bandit | 3 issues (1 Low, 2 Medium) | 0 ("No issues identified") |
+| Pylint | 5.81/10 | 10.00/10 |
+| Flake8 | 5 issues | 0 (empty report) |
 
 Program output before and after the changes is identical (`2500`, `100`, `['A-102']`).
